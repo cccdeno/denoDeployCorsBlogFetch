@@ -1,6 +1,6 @@
 var R = {}
 
-let server = "https://corsBlogFetch.deno.dev"
+let server = "https://corsblogfetch.deno.dev"
 // let server = ""
 
 async function fetchGetJson(path) {
